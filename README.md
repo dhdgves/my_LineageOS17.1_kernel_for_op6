@@ -63,5 +63,6 @@
 内核来源于[LineageOS](https://github.com/LineageOS/android_kernel_oneplus_sdm845)
 
 目前存在的rtl8812au驱动来自[aricrack-ng](https://github.com/aircrack-ng/rtl8812au)
+
 内核编译步骤参考[maozhifeng](https://github.com/maozhifeng/clang_and_gcc_auto_make_kernel)
 
